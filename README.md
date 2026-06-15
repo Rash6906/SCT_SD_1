@@ -47,13 +47,13 @@ The application allows users to quickly convert temperature values between diffe
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Temperature-Converter-Pro.git
+git clone https://github.com/Rash6906/SCT_SD_1.git
 ```
 
 ### Step 2: Navigate to Project Folder
 
 ```bash
-cd Temperature-Converter-Pro
+cd SCT_SD_1
 ```
 
 ### Step 3: Install Required Package
@@ -65,7 +65,7 @@ pip install customtkinter
 ### Step 4: Run the Application
 
 ```bash
-python Task1.py
+python Temperaturepro.py
 ```
 
 ---
